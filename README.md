@@ -61,7 +61,7 @@ This bar chart shows training vs validation accuracy for all models. MobileNetV2
 ```bash
 git clone https://github.com/your-username/lung-colon-cancer-classification.git
 cd lung-colon-cancer-classification
-
+```
 
 ## 🛠 Requirements
 Install dependencies:
