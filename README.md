@@ -60,6 +60,8 @@ Install dependencies:
 ```bash
 pip install tensorflow numpy pandas matplotlib opencv-python scikit-learn tqdm plotly kagglehub
 
+
+
 ## 🚀 How to Run
 
 ### 1️⃣ Clone the repository
@@ -68,4 +70,3 @@ git clone https://github.com/your-username/lung-colon-cancer-classification.git
 cd lung-colon-cancer-classification
 
 
-**Dataset structure:**
