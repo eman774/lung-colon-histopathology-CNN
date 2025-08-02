@@ -55,13 +55,6 @@ This bar chart shows training vs validation accuracy for all models. MobileNetV2
 *Figure: Comparison of train and validation accuracy for the evaluated architectures (Custom CNN, MobileNetV2, VGG16, EfficientNetB0, ResNet50V2).*
 
 
-## 🛠 Requirements
-Install dependencies:
-```bash
-pip install tensorflow numpy pandas matplotlib opencv-python scikit-learn tqdm plotly kagglehub
-
-
-
 ## 🚀 How to Run
 
 ### 1️⃣ Clone the repository
@@ -69,4 +62,9 @@ pip install tensorflow numpy pandas matplotlib opencv-python scikit-learn tqdm p
 git clone https://github.com/your-username/lung-colon-cancer-classification.git
 cd lung-colon-cancer-classification
 
+
+## 🛠 Requirements
+Install dependencies:
+```bash
+pip install tensorflow numpy pandas matplotlib opencv-python scikit-learn tqdm plotly kagglehub
 
